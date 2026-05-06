@@ -39,6 +39,13 @@ To convert raw financial data into meaningful insights that support **data-drive
 
 ---
 
+## 📷 Dashboard Preview
+
+<img width="1298" height="737" alt="Dashboard" src="https://github.com/user-attachments/assets/e2d35d95-2308-431d-aded-12166e799f17" />
+
+
+---
+
 ## 🚀 Author
 
 **Aayush Pande**
